@@ -1,6 +1,6 @@
 
 <?php
 // Simple PHP script
-$message = "Hello World!";
+$message = "Cloud Deployment Exam";
 echo $message;
 ?>
